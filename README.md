@@ -1,2 +1,2 @@
 # site-web-collaboratif
-Test pour un exposé sur la contribution et la maintenance 
+Test pour un exposé sur la contribution et la maintenance des projets open source 
